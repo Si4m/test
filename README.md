@@ -5,7 +5,7 @@ foundation from `INLINE_EDITING_ROADMAP.md`, built against
 `RAKIBS_CLASSROOM_CLONE_SPEC.md` for visual reference. Backend is
 intentionally stubbed out — see "The backend swap" below.
 
-## Run it
+## Run it ok
 
 ```
 npm install
