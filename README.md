@@ -35,8 +35,7 @@ Changes persist across reloads via localStorage.
 function (`siteSettings.get/upsert`, `media.upload`, `courses/teachers/
 exams/books.list/create/update/remove`) is written to the shape the real
 backend will have. When Supabase access is given, replace the internals
-of this one file — no component in `src/components` or `src/pages` needs
-to change.
+of this one file — no component in `src/components`.
 
 ## What's here
 
